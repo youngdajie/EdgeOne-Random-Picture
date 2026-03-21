@@ -131,7 +131,7 @@ export default function GalleryClient({ initialImages }) {
     <div ref={containerRef} className="min-h-screen bg-[#fafafa] dark:bg-black text-neutral-900 dark:text-white selection:bg-neutral-200 dark:selection:bg-white/10 relative transition-colors duration-500">
       <header className="fixed top-0 left-0 right-0 z-[60] flex justify-between items-center px-8 py-6 pointer-events-none">
         <Link href="/" className="text-sm tracking-[0.4em] uppercase font-light hover:opacity-50 transition-opacity pointer-events-auto">
-          Gallery
+          前往首页
         </Link>
         <div className="flex items-center gap-6 pointer-events-auto">
           <div className="text-[10px] tracking-[0.3em] uppercase opacity-40 font-medium hidden md:block">
@@ -247,7 +247,7 @@ export default function GalleryClient({ initialImages }) {
       )}
 
       <footer className="p-12 text-center opacity-40 text-sm border-t border-neutral-200 dark:border-white/5">
-        <p>© {new Date().getFullYear()} <a href="https://tianhw.top" target="_blank" className="text-inherit no-underline hover:opacity-100 transition-colors">THW</a>. Powered by EdgeOne Pages</p>
+        <p>© {new Date().getFullYear()} <a href="www.yangjie.site" target="_blank" className="text-inherit no-underline hover:opacity-100 transition-colors">JIE</a>. 由 EdgeOne Pages 加速</p>
       </footer>
     </div>
   );

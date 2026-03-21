@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'EdgeOne Random Picture',
+  title: '随机图 By JIE',
   description: '基于 EdgeOne Pages 的随机图片分发系统',
 };
 
