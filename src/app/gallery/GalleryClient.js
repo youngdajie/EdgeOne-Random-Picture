@@ -247,7 +247,7 @@ export default function GalleryClient({ initialImages }) {
       )}
 
       <footer className="p-12 text-center opacity-40 text-sm border-t border-neutral-200 dark:border-white/5">
-        <p>© {new Date().getFullYear()} <a href="www.yangjie.site" target="_blank" className="text-inherit no-underline hover:opacity-100 transition-colors">JIE</a>. 由 EdgeOne Pages 加速</p>
+        <p>© {new Date().getFullYear()} <a href="https://www.yangjie.site" target="_blank" className="text-inherit no-underline hover:opacity-100 transition-colors">JIE</a>. 由 EdgeOne Pages 加速</p>
       </footer>
     </div>
   );

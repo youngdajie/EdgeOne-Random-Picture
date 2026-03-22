@@ -110,7 +110,7 @@ export default function HomeClient({ images }) {
           <a href="https://www.yangjie.site" target="_blank" className="text-inherit no-underline hover:text-white transition-colors">JIE</a>
         </div>
         <div className="text-[9px] text-white/30 font-medium">
-          © {new Date().getFullYear()} 由 EdgeOne Pages 提供服务
+          © {new Date().getFullYear()} 由 EdgeOne Pages 提供加速服务
         </div>
       </footer>
     </div>
