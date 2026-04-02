@@ -2,7 +2,7 @@
 
 一个基于 EdgeOne Pages 构建的随机图片分发系统。
 
-Demo：https://picture.tianhw.top/
+Demo：https://picture.yangjie.site
 
 ## 🌟 特性
 
@@ -37,7 +37,7 @@ pnpm dev
 
 ### 3. 部署
 
-[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/H2O-ME/EdgeOne-Random-Picture)
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/youngdajie/EdgeOne-Random-Picture)
 
 点击上方一键按钮即可快速部署，相关配置应该会自动识别，也可以照下方参数填写：
 - **框架预设**：选择 `Next.js`
