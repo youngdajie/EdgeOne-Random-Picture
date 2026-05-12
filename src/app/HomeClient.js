@@ -52,7 +52,8 @@ export default function HomeClient({ images }) {
           <div 
             className="absolute inset-0 animate-slow-zoom"
             style={{
-              backgroundImage: `url("${bgUrl}")`,
+              // backgroundImage: `url("${bgUrl}")`,
+			  backgroundImage: `url("https://img.yangjie.site/20260512/14.9kgswbn113.avif")`,
               backgroundSize: 'cover',
               backgroundPosition: 'center',
             }}
@@ -64,10 +65,10 @@ export default function HomeClient({ images }) {
       <main className="relative z-20 w-full max-w-[600px] px-8 flex flex-col items-center">
         <div className="text-center animate-slide-up">
           <h1 className="text-6xl md:text-8xl font-thin tracking-[0.2em] mb-4 uppercase text-white drop-shadow-2xl">
-            随机图片
+            壁纸收藏
           </h1>
           <p className="text-sm md:text-base font-light tracking-[0.5em] text-white/90 mb-16 uppercase drop-shadow-lg shadow-black">
-            Random picture
+            Wallpaper Collection
           </p>
           
           <div className="flex flex-col items-center space-y-10">

@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: '随机图 By JIE',
+  title: '壁纸收藏@JIE',
   description: '基于 EdgeOne Pages 的随机图片分发系统',
 };
 
