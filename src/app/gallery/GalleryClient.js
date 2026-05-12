@@ -129,7 +129,7 @@ export default function GalleryClient({ initialImages }) {
 
   return (
     <div ref={containerRef} className="min-h-screen bg-[#fafafa] dark:bg-black text-neutral-900 dark:text-white selection:bg-neutral-200 dark:selection:bg-white/10 relative transition-colors duration-500">
-      <header className="fixed top-0 left-0 right-0 z-[60] flex justify-between items-center px-8 py-6 pointer-events-none">
+      <header className="fixed top-0 left-0 right-0 z-[60] flex justify-between items-center px-8 py-6 pointer-events-none" style="background: #2e2a30c7;">
         <Link href="/" className="text-sm tracking-[0.4em] uppercase font-light hover:opacity-50 transition-opacity pointer-events-auto">
           前往首页
         </Link>
