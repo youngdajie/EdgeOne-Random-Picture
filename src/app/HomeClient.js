@@ -53,7 +53,7 @@ export default function HomeClient({ images }) {
             className="absolute inset-0 animate-slow-zoom"
             style={{
               // backgroundImage: `url("${bgUrl}")`,
-			  backgroundImage: `url("https://img.yangjie.site/20260512/14.9kgswbn113.avif")`,
+			  backgroundImage: `url("https://cdn.yangjie.site/sites/box/img/other/16.8s3xgx9g7j.avif")`,
               backgroundSize: 'cover',
               backgroundPosition: 'center',
             }}
