@@ -2,7 +2,7 @@ import './globals.css';
 
 export const metadata = {
   title: '壁纸收藏@JIE',
-  description: '基于 EdgeOne Pages 的随机图片分发系统',
+  description: '基于 EdgeOne Makers 的随机图片分发系统',
 };
 
 export default function RootLayout({ children }) {
