@@ -1,6 +1,6 @@
 # EdgeOne Random Picture
 
-一个基于 EdgeOne Pages 构建的随机图片分发系统。
+一个基于 EdgeOne Makers 构建的随机图片分发系统。
 
 Demo：https://picture.yangjie.site
 
